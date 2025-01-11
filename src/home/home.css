@@ -34,18 +34,18 @@
   }
   
   .intro {
-    padding: 2rem 25rem;
+    padding: 10%;
   }
   
   .highlights {
     background-color: #f9f9f9;
-    padding: 2rem 1rem; 
+    padding: 1%; 
   }
   
   .highlight-cards {
     display: flex;
     justify-content: center;
-    gap: 1rem;
+    gap: 2%;
   }
   
   .card {
