@@ -1,0 +1,4 @@
+Logo hex colors:
+Logo - #85e3e8
+Background - #0d3052
+

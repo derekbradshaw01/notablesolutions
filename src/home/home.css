@@ -1,0 +1,80 @@
+.home-container {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero {
+    background: linear-gradient(135deg, #333, #555);
+    color: white;
+    padding: 2rem;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .hero p {
+    font-size: 1.25rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .hero button {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    color: #333;
+    background-color: #85e3e8;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .hero button:hover {
+    background-color: #0d3052;
+    color: white;
+  }
+  
+  .intro {
+    padding: 2rem 25rem;
+  }
+  
+  .highlights {
+    background-color: #f9f9f9;
+    padding: 2rem 1rem;
+  }
+  
+  .highlight-cards {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  
+  .card {
+    background: white;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 200px;
+    text-align: left;
+  }
+  
+  .cta {
+    background-color: #333;
+    color: white;
+    padding: 2rem 1rem;
+  }
+  
+  .cta button {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    color: #333;
+    background-color: #85e3e8;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .cta button:hover {
+    background-color: #0d3052;
+    color: white;
+  }
+  

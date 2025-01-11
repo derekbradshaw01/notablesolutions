@@ -1,0 +1,36 @@
+
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  width: 100vw;
+  height: 40px;
+  padding: 1rem;
+}
+
+.navbar-left .logo {
+  display: flex;  
+  width: 40px;
+  height: 40px;
+}
+
+.navbar-center .nav-links {
+  list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  size-adjust: 2rem;
+}
+
+.navbar-center .nav-links li {
+  margin-right: 1rem;
+}
+
+.navbar-center .nav-links a {
+  color: #fff;
+  text-decoration: none;
+}
+  
